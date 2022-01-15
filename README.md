@@ -17,4 +17,6 @@ Another way to analyse stocks is to review the return. It shows the percentage c
 ## Summary
 Combining the volume and return analyses, we can predict a stock that will be most beneficial in next year. The runner up is RUN (no pun intended). This stock had moderate gains in 2017 (5.5% retrun) but was really profitable in 2018 (84% return), while maintaning solid trading volume in both years (267M and 502M respectively). However, the best stock from this list is ENPH that had a volume of 221M and 607M and returns of 129.5% and 81.9% in years 2017 and 2018 respectively. This stock will be a good logical investment. 
 
-The code for this analysis ran pretty quickly. Here are the run times for 2017 and 2018: ![Run timer for 2017](Resources/VBA_Challenge_2017.png) ![Run timer for 2018](Resources/VBA_Challenge_2018.png)
+The code for this analysis ran pretty quickly. Here are the run times for 2017 and 2018: 
+![Run timer for 2017](Resources/VBA_Challenge_2017.png) 
+![Run timer for 2018](Resources/VBA_Challenge_2018.png)
